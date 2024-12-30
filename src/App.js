@@ -18,6 +18,8 @@ function App() {
   );
 }
 
+// amazing
+
 const Navbar = () => (
   <nav className="Navbar">
     <div className="logo">Shivansh <span>Portfolio</span></div>
