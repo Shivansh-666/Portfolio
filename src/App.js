@@ -13,8 +13,7 @@ function App() {
         <ServicesSection />
         <ContactSection />
       </main>
-      niggers
-      <lol></lol>
+    
       <Footer />
     </div>
   );
