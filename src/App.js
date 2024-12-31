@@ -13,6 +13,7 @@ function App() {
         <ServicesSection />
         <ContactSection />
       </main>
+      <lol></lol>
       <Footer />
     </div>
   );
